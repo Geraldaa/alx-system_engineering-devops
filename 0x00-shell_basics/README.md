@@ -1,1 +1,1 @@
-script that displays hidden files and contents of current directory
+display directory content with numerical ids and hidden files
