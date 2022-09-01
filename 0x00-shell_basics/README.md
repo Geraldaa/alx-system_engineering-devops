@@ -1,1 +1,1 @@
-display directory content with numerical ids and hidden files
+script that creates directory in directory
