@@ -1,1 +1,1 @@
-life is a series
+magic file
