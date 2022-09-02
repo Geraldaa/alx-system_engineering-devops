@@ -1,1 +1,1 @@
-Shell permissions switches current user
+shell permissions effective username
