@@ -1,1 +1,1 @@
-Shell permissions empty
+Shell permissions add execute
