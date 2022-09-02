@@ -1,1 +1,1 @@
-delete files with special character
+multiple directory
