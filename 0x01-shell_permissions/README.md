@@ -1,1 +1,1 @@
-shell permissions effective username
+shell permissions groups
