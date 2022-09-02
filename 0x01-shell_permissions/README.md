@@ -1,1 +1,1 @@
-Shell permissions add execute
+Shell permissions multiple permissions
