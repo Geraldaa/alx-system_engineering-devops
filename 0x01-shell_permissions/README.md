@@ -1,1 +1,1 @@
-Shell permissions multiple permissions
+Shell permissions to everybody
