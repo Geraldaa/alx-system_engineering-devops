@@ -1,1 +1,1 @@
-move file to subdirectory
+delete file betty
