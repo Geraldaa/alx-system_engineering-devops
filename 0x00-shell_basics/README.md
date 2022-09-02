@@ -1,1 +1,1 @@
-move specific file type
+delete files with special character
