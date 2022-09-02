@@ -1,1 +1,1 @@
-shell permissions new owner
+Shell permissions empty
