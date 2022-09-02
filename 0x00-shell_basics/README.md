@@ -1,1 +1,1 @@
-script that creates directory in directory
+move file to subdirectory
