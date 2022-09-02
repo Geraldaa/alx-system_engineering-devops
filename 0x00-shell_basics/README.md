@@ -1,1 +1,1 @@
-print type of file name
+creating symbolic link
