@@ -1,1 +1,1 @@
-Shell permissions to everybody
+Shell permissions James Bond
